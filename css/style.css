@@ -41,4 +41,29 @@ ul {
     list-style: none;
 }
 
+.section {
+    padding: 50px 0;
+}
+
+.section-header {
+    text-align: center;
+}
+
+.section-badge {
+    background: orange;
+    color: white;
+    font-weight: 600;
+    margin: 0 auto;
+    padding: 8px 10px;
+    width: 30vh;
+    border-radius: 20px;
+}
+
+.section-title {
+    font-size: 35px;
+    font-weight: 700;
+    font-style: italic;
+    padding: 16px 0;
+}
+
 /* ----------- */
